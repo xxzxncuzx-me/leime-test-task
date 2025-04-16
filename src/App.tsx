@@ -1,4 +1,4 @@
-import React from "react";
+import React, { JSX } from "react";
 import "./App.css";
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import MemeTable from "./pages/MemeTable/MemeTable";
